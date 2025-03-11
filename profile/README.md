@@ -1,4 +1,4 @@
-# Morrison Lab 
+# Morrison Neuromodulation Imaging Lab 
 
 Herein are Git repositories for Melanie Morrison's Lab at the University of California, San Francisco.
 
